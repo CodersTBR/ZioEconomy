@@ -1,5 +1,5 @@
 name: ZioEconomy
 version: "${pom.version}"
 api: ["1.0.0"]
-main: com.coderstbr.zioeconomy.main
-authors: [Olof Larsson, Brett Flannigan]
+main: com.coderstbr.zioeconomy.Main
+authors: [D4yv1d, ppaalo, Kayllon]
